@@ -1,11 +1,11 @@
 {
 	"name": "Lines",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Lines game",
 	"author": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/StalkerApps/memory.git"
+		"url": "https://github.com/StalkerApps/lines.git"
 	},
 	"dependencies": {
 		"stb-referrer": "https://github.com/stbsdk/referrer.git",
@@ -51,8 +51,8 @@
 				"1080": "img/1080/icons/"
 			},
 			"states": {
-				"normal": "2015.png",
-				"active": "2015.png"
+				"normal": "normal.png",
+				"active": "active.png"
 			}
 		}
 	}
